@@ -42,7 +42,7 @@ The dataset can be used to:
 
 ## Dashboard Visualizations
 
-### 1. **Sales and Profit Analysis **
+### 1. **Sales and Profit Analysis**
 This is a **bar chart** comparing monthly sales and profits. It helps to track how sales and profits change over the course of a year, allowing for the identification of trends, seasonality, and peak periods. 
 
 - **Purpose**: Visualize the relationship between sales and profit on a monthly basis.
