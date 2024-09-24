@@ -1,5 +1,5 @@
 # Ecommerce-Sales-Analysis
-Ecommerce Analysis using Excel
+This analysis involves in making a dynamic dashboard with the help of Excel 
 # Sales Dataset Overview
 
 This dataset contains information on sales transactions, customer details, shipping information, and product-related data. It can be used for various sales analysis, including profit and loss, customer segmentation, and product performance evaluation.
