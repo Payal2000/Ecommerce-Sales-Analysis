@@ -1,5 +1,7 @@
 # Ecommerce-Sales-Analysis
 This analysis involves in making a dynamic dashboard with the help of Excel 
+<img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Payal2000/Ecommerce-Sales-Analysis/blob/main/Dashboard.png">
+
 # Sales Dataset Overview
 
 This dataset contains information on sales transactions, customer details, shipping information, and product-related data. It can be used for various sales analysis, including profit and loss, customer segmentation, and product performance evaluation.
