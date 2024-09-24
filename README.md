@@ -40,12 +40,45 @@ The dataset can be used to:
 - Measure the impact of discounts on sales and profitability.
 - Segment customers by region, product, or other demographics.
 
-## Queries
+## Dashboard Visualizations
 
-- **Monthly Sales Trend**: Calculate the total sales per month.
-- **Top Product Categories**: Identify the product categories that generate the most revenue.
-- **Customer Segmentation**: Group customers based on their purchasing behavior (e.g., Consumer, Corporate).
-- **Profit by Region**: Evaluate the profitability of different geographic regions.
+### 1. **Sales and Profit Analysis **
+This is a **bar chart** comparing monthly sales and profits. It helps to track how sales and profits change over the course of a year, allowing for the identification of trends, seasonality, and peak periods. 
+
+- **Purpose**: Visualize the relationship between sales and profit on a monthly basis.
+- **Insights**: Identify high-profit months, track seasonal performance, and understand profitability trends over time.
+
+### 2. **Category-wise Profit**
+This is a **bar chart** displaying profits across different product categories, such as Furniture, Office Supplies, and Technology. 
+
+- **Purpose**: Analyze which product categories generate the most profit.
+- **Insights**: Understand which product categories contribute the most to overall profitability and identify categories that may need attention or improvement.
+
+### 3. **Category-wise Sales Share**
+This is a **pie chart** that shows the percentage share of sales for each category, giving a proportional view of sales distribution across categories.
+
+- **Purpose**: Show the distribution of sales across different product categories.
+- **Insights**: Quickly identify which categories are the top contributors to overall sales volume.
+
+### 4. **Sales by State**
+A **map visualization** that highlights total sales across different states. It visually represents the geographic distribution of sales, with a focus on the top-performing states.
+
+- **Purpose**: Geographically analyze sales performance.
+- **Insights**: Identify regions or states with the highest sales and those with room for growth.
+
+### 5. **Top 5 Subcategories**
+A **bar chart** showing the top 5 subcategories by sales. This visualization provides a breakdown of the most popular product subcategories within the dataset.
+
+- **Purpose**: Highlight the subcategories that drive the most sales.
+- **Insights**: Determine which product subcategories are the most successful and focus on growing these areas.
+
+## Filters
+
+The dashboard can include filters that allow users to interact with the data and customize the visualizations. The filters may include:
+
+- **Year**: Filter data by year to analyze sales trends over time.
+- **Region**: Filter by geographic region to understand regional sales and profit distribution.
+- **Segment**: Filter by customer segment (e.g., Consumer, Corporate, Home Office) to explore performance within different customer groups.
 
 
 
